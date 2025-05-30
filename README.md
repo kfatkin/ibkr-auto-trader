@@ -48,6 +48,14 @@ pip install -r requirements.txt
 
 ---
 
+### 5. Test IBKR API connection
+
+```bash
+python test.py
+```
+
+---
+
 ### 🚀 Running the Application
 
 ```bash
